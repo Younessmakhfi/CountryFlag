@@ -1,7 +1,7 @@
 # Flag icon Creator
 ![image](https://memberfiles.freewebs.com/98/56/37315698/photos/Nato-Flags/Nato%20Member%20Flags.png)
 
-Flag icon  Creator is a public library used to include countries flag in your react native app easly .
+Flag icon  Creator is a public library used to include countries flag icons in your react native app easly .
 
 ## Installation
 
