@@ -1,8 +1,8 @@
 {
   "name": "react-native-flag-creator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "homepage": "https://github.com/demchenkoalex/react-native-flag-creator#readme",
+  "homepage": "https://github.com/Younessmakhfi/CountryFlag",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "author": "Youness Makhfi <youness.makhfi.contact@gmail.com>",

@@ -2,14 +2,12 @@ const fs = require('fs')
 const readline = require('readline')
 
 // Params used in the template project
-const DEFAULT_NAME = 'react-native-module-template'
-const DEFAULT_SHORT_NAME = 'RNModuleTemplate'
-const DEFAULT_URL =
-  'https://github.com/demchenkoalex/react-native-module-template#readme'
-const DEFAULT_GIT_URL =
-  'https://github.com/demchenkoalex/react-native-module-template.git'
-const DEFAULT_AUTHOR_NAME = 'Alex Demchenko'
-const DEFAULT_AUTHOR_EMAIL = 'alexdemchenko@yahoo.com'
+const DEFAULT_NAME = 'react-native-flag-creator'
+const DEFAULT_SHORT_NAME = 'RNFlagCreator'
+const DEFAULT_URL = 'https://github.com/Younessmakhfi/CountryFlag'
+const DEFAULT_GIT_URL = 'https://github.com/Younessmakhfi/CountryFlag'
+const DEFAULT_AUTHOR_NAME = 'Youness makhfi'
+const DEFAULT_AUTHOR_EMAIL = 'youness.makhfi.contact@gmail.com'
 
 // Questions list
 const QUESTION_NAME = `Enter library name (use kebab-case) (default ${DEFAULT_NAME}): `
