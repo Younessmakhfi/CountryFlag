@@ -6,6 +6,17 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "author": "Youness Makhfi <youness.makhfi.contact@gmail.com>",
+  "keywords": [
+    "country",
+    "countrycode",
+    "flag",
+    "icon",
+    "react-native",
+    "flag-icons",
+    "flag-icon",
+    "flag-creator"
+
+  ],
   "license": "MIT",
   "files": [
     "android",
